@@ -1,0 +1,10 @@
+*.bin
+__pycache__/
+make_model.py
+predict_model.py
+boxplots.py
+figures.py
+gcc.py
+src/
+
+.DS_Store
