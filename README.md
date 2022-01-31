@@ -4,7 +4,7 @@ My MSc Computer Science research project, titled 'Predicting Keystrokes using an
 
 Audio side-channel attacks are increasingly becoming a security concern regarding ‘keystroke snooping’, in which an attack can utilise the emanation of a keystroke to predict a specific key (or contextual passage of keys) being pressed. This can potentially be used to gather a users’ private data if keystroke audio is able to be discretely captured.
 
-In this project, Python code has been created to analayse the acoustic emanation and geometric features of a keystroke signal, and this information is used to provide enough information to accurately classify keystroke emanations. A combination of MFCC and TDoA features are shown to provide superior classification results when compared to other input features.
+In this project, Python code has been created to analyse the acoustic emanation and geometric features of a keystroke signal, and this information is used to provide enough information to accurately classify keystroke emanations. A combination of MFCC and TDoA features are shown to provide superior classification results when compared to other input features.
 
 A novel attack is presented which utilises cross-prediction techniques on a stereo array of microphones to increase keystroke recognition accuracy. Cross-predictions increase singular character recovery of keystrokes by 7% when using a supervised Random Forest machine learning model. A Random Forest classifier is able to achieve up to 89% inter-dataset single-character recovery from a 40-key classification problem.
 
